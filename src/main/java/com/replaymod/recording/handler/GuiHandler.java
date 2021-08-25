@@ -15,6 +15,7 @@ import com.replaymod.gui.versions.callbacks.InitScreenCallback;
 import com.replaymod.mixin.AddServerScreenAccessor;
 import com.replaymod.recording.ServerInfoExt;
 import com.replaymod.recording.Setting;
+
 import net.minecraft.client.gui.screen.AddServerScreen;
 import net.minecraft.client.gui.screen.MultiplayerScreen;
 import net.minecraft.client.gui.screen.WorldSelectionScreen;
